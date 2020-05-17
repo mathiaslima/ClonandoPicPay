@@ -6,3 +6,10 @@ export const Container = styled.ScrollView.attrs(() => ({
 }))`
     margin-top: 25px;    
 `;
+
+export const Option = styled.View`
+`;
+
+export const Title = styled.Text`
+ color: #fff;
+`;

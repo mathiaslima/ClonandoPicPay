@@ -6,7 +6,7 @@ export default function Tips(){
     return (
         <Container>
             <Option>
-                <Title></Title>
+                <Title>kkk</Title>
             </Option>
         </Container>
     );
